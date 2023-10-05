@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 👨‍💻 My name is Kirill Pushkarev.  
-- 🌍 Location: Haifa, Israel.  
+- 🌍 Location: Israel.  
 - 👨‍💻 Data Scientist specializing in Deep Learning and Computer Vision.  
 - 🚀 Proficient in machine learning, computer vision algorithms, and deep neural networks.  
 - 🔧 Technologies: Python, PyTorch.  

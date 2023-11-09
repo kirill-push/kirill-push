@@ -2,7 +2,7 @@
 
 - 👨‍💻 My name is Kirill Pushkarev.  
 - 🌍 Location: Israel.  
-- 👨‍💻 Data Scientist specializing in Deep Learning and Computer Vision.  
+- 👨‍💻 Machine Learning Engineer specializing in Deep Learning and Computer Vision.  
 - 🚀 Proficient in machine learning, computer vision algorithms, and deep neural networks.  
 - 🔧 Technologies: Python, PyTorch.  
 - 📫 Contact me: [My LinkedIn page](https://www.linkedin.com/in/kirillpush/)  

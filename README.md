@@ -6,7 +6,7 @@
 - 🚀 Proficient in machine learning, computer vision algorithms, and deep neural networks.  
 - 🔧 Technologies: Python, PyTorch.  
 - 📫 Contact me: [My LinkedIn page](https://www.linkedin.com/in/kirillpush/)  
-- 🔭 I’m currently working on [AI Chatbot for Telegram](https://github.com/kirill-push/chatbot) and [Polony counting project](https://github.com/kirill-push/polony-counting)
+- 🔭 I’m currently working on [Polony counting project](https://github.com/kirill-push/polony-counting)
 <!--
 **kirill-push/kirill-push** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

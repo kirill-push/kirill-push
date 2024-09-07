@@ -6,7 +6,7 @@
 - 🚀 Proficient in machine learning, computer vision algorithms, and deep neural networks.  
 - 🔧 Technologies: Python, PyTorch.  
 - 📫 Contact me: [My LinkedIn page](https://www.linkedin.com/in/kirillpush/)  
-- 🔭 I’m currently working @ Junistat (Football optical tracking and analysis)
+- 🔭 I’m currently working @ **Junistat** (Football optical tracking and analysis)
 ### Featured Projects 🤖
 - **Polony Counting** - A deep learning approach to automate the counting of polonies in genetic sequencing. [View Repository](https://github.com/kirill-push/polony-counting)
 - **Python-based Vehicle Detection for Aircraft Stands** - Utilizing fixed cameras, this project implements Pixel Brightness Variance Analysis and Object Detection for vehicle identification at aircraft stands. [View Repository](https://github.com/kirill-push/object-detection-task)
